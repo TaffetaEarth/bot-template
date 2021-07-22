@@ -1,1 +1,1 @@
-from .test import Test
+from .fromfunction import FromQuestions
